@@ -1,8 +1,13 @@
 
 # Bruh Spam — README
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+# Bruh Spam — README
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-API-black.svg)
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-lightgrey.svg)
+![Render](https://img.shields.io/badge/Backend-Render-blue.svg)
 
 ![bruh logo](logo1.png)
 
@@ -63,6 +68,14 @@ Features:
 - Instantly displays prediction  
 - Great for users who don’t want to use code  
 - Useful for debugging & verifying the service  
+
+#### 📸 Frontend UI Screenshots
+
+##### 🔹 Screenshot 1 — Main Interface
+![Frontend Screenshot 1](notspam.jpg)
+
+##### 🔹 Screenshot 2 — Spam Detection Result
+![Frontend Screenshot 2](spam.jpg)
 
 ---
 
