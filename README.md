@@ -1,6 +1,9 @@
 
 # Bruh Spam — README
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 ![bruh logo](logo1.png)
 
 > **Live**  
