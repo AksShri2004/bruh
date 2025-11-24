@@ -1,0 +1,33 @@
+{
+  "timeZone": "Etc/GMT",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/gmail.addons.current.message.readonly",
+    "https://www.googleapis.com/auth/gmail.addons.execute",
+    "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/gmail.modify",
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/script.locale",
+    "https://www.googleapis.com/auth/userinfo.email"
+  ],
+  "gmail": {
+    "name": "bruh.spam",
+    "logoUrl": "file:///mnt/data/logo.jpg",
+    "contextualTriggers": [
+      {
+        "unconditional": {},
+        "onTriggerFunction": "onGmailMessageOpen"
+      }
+    ],
+    "primaryColor": "#1a73e8",
+    "secondaryColor": "#ffffff",
+    "openLinkUrlPrefixes": [
+      "https://",
+      "http://",
+      "file://"
+    ],
+    "useLocaleFromApp": true
+  },
+  "runtimeVersion": "V8"
+}
