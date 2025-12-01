@@ -13,7 +13,7 @@
   ],
   "gmail": {
     "name": "bruh.spam",
-    "logoUrl": "file:///mnt/data/logo.jpg",
+    "logoUrl": "https://bruh-spam.vercel.app/logo1.png",
     "contextualTriggers": [
       {
         "unconditional": {},
